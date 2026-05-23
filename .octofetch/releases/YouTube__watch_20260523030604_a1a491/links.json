@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-9088",
+  "folder": "YouTube__watch_20260523030604_a1a491",
+  "base_name": "WHITE_FOX_is_OP_Marvel_Rivals_-HV2453ArT0_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/pooyarahmani81-star/Cloud-Downloads-2/releases/tag/co-releases-v1-9088",
+  "files": [
+    {
+      "name": "WHITE_FOX_is_OP_Marvel_Rivals_-HV2453ArT0_720p.mp4",
+      "url": "https://github.com/pooyarahmani81-star/Cloud-Downloads-2/releases/download/co-releases-v1-9088/WHITE_FOX_is_OP_Marvel_Rivals_-HV2453ArT0_720p.mp4",
+      "api_url": "https://api.github.com/repos/pooyarahmani81-star/Cloud-Downloads-2/releases/assets/427588239",
+      "id": 427588239,
+      "size": 1072763390,
+      "download_count": 0
+    }
+  ]
+}
