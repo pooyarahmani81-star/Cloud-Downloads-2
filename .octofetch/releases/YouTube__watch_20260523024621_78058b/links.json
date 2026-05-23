@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-9674",
+  "folder": "YouTube__watch_20260523024621_78058b",
+  "base_name": "FAREWELL_SEASON_4_5_Marvel_Rivals_pmZxLtpRQuU_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/pooyarahmani81-star/Cloud-Downloads-2/releases/tag/co-releases-v1-9674",
+  "files": [
+    {
+      "name": "FAREWELL_SEASON_4_5_Marvel_Rivals_pmZxLtpRQuU_720p.mp4",
+      "url": "https://github.com/pooyarahmani81-star/Cloud-Downloads-2/releases/download/co-releases-v1-9674/FAREWELL_SEASON_4_5_Marvel_Rivals_pmZxLtpRQuU_720p.mp4",
+      "api_url": "https://api.github.com/repos/pooyarahmani81-star/Cloud-Downloads-2/releases/assets/427577985",
+      "id": 427577985,
+      "size": 1039723172,
+      "download_count": 0
+    }
+  ]
+}
