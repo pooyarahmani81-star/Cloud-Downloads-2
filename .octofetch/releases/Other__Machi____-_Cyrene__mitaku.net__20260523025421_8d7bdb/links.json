@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-3985",
+  "folder": "Other__Machi____-_Cyrene__mitaku.net__20260523025421_8d7bdb",
+  "base_name": "Other__Machi____-_Cyrene__mitaku.net__20260523025421_8d7bdb.rar",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/pooyarahmani81-star/Cloud-Downloads-2/releases/tag/co-releases-v1-3985",
+  "files": [
+    {
+      "name": "Other__Machi____-_Cyrene__mitaku.net__20260523025421_8d7bdb.rar",
+      "url": "https://github.com/pooyarahmani81-star/Cloud-Downloads-2/releases/download/co-releases-v1-3985/Other__Machi____-_Cyrene__mitaku.net__20260523025421_8d7bdb.rar",
+      "api_url": "https://api.github.com/repos/pooyarahmani81-star/Cloud-Downloads-2/releases/assets/427581643",
+      "id": 427581643,
+      "size": 35764,
+      "download_count": 0
+    }
+  ]
+}
